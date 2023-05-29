@@ -1,6 +1,6 @@
 ### Archive Notice
 
-This is a fork of original new_version lib with android device update checker fixed !!!
+This is a fork of original new_version lib with android/ios device update checker fixed !!!
 
 # New Version Plugin 🎉
 
