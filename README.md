@@ -17,8 +17,9 @@ Add new_version as [a dependency in your `pubspec.yaml` file.](https://flutter.i
 ```
 dependencies:
   new_version:
-    url: https://github.com/eduardoazvd17/new_version.git
-    ref: master
+    git:
+      url: https://github.com/eduardoazvd17/new_version.git
+      ref: master
 ```
 
 For android devices you need to configure permissions adding the following lines to AndroidManifest.xml, inside the manifest tag and on top of application tag:
